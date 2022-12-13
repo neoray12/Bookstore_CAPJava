@@ -4,7 +4,7 @@
         "node": ">=10.0.0"
     },
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "@sap/cds": "latest",
         "@sap/cds-odata-v2-adapter-proxy": "latest"
     },
